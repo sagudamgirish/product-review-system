@@ -1,0 +1,973 @@
+product,review,sentiment
+iPhone Model 1,battery life is great,positive
+iPhone Model 1,battery life is great,positive
+iPhone Model 1,okay battery,neutral
+iPhone Model 1,charging is super fast,positive
+iPhone Model 1,display is शानदार,positive
+iPhone Model 1,average performance,neutral
+iPhone Model 1,slow charging,negative
+iPhone Model 1,decent camera,neutral
+iPhone Model 1,decent camera,neutral
+iPhone Model 1,performance is fast,positive
+iPhone Model 2,camera is poor,negative
+iPhone Model 2,very smooth experience,positive
+iPhone Model 2,build quality is bad,negative
+iPhone Model 2,heating issue,negative
+iPhone Model 2,not bad not great,neutral
+iPhone Model 2,not bad not great,neutral
+iPhone Model 2,not bad not great,neutral
+iPhone Model 2,battery drains fast,negative
+iPhone Model 2,lags sometimes,negative
+iPhone Model 2,average performance,neutral
+iPhone Model 3,slow charging,negative
+iPhone Model 3,camera is poor,negative
+iPhone Model 3,slow charging,negative
+iPhone Model 3,display is शानदार,positive
+iPhone Model 3,average performance,neutral
+iPhone Model 3,decent camera,neutral
+iPhone Model 3,display is शानदार,positive
+iPhone Model 3,slow charging,negative
+iPhone Model 3,camera is poor,negative
+iPhone Model 3,performance is fast,positive
+iPhone Model 4,not bad not great,neutral
+iPhone Model 4,build quality is bad,negative
+iPhone Model 4,charging is super fast,positive
+iPhone Model 4,display is शानदार,positive
+iPhone Model 4,camera is poor,negative
+iPhone Model 4,build quality is bad,negative
+iPhone Model 4,normal usage is okay,neutral
+iPhone Model 4,battery life is great,positive
+iPhone Model 4,build quality is bad,negative
+iPhone Model 4,works fine,neutral
+iPhone Model 5,heating issue,negative
+iPhone Model 5,build quality is bad,negative
+iPhone Model 5,camera is poor,negative
+iPhone Model 5,camera is poor,negative
+iPhone Model 5,normal usage is okay,neutral
+iPhone Model 5,camera is poor,negative
+iPhone Model 5,normal usage is okay,neutral
+iPhone Model 5,charging is super fast,positive
+iPhone Model 5,slow charging,negative
+iPhone Model 5,heating issue,negative
+iPhone Model 6,performance is fast,positive
+iPhone Model 6,not bad not great,neutral
+iPhone Model 6,very smooth experience,positive
+iPhone Model 6,slow charging,negative
+iPhone Model 6,works fine,neutral
+iPhone Model 6,very smooth experience,positive
+iPhone Model 6,decent camera,neutral
+iPhone Model 6,works fine,neutral
+iPhone Model 6,display is शानदार,positive
+iPhone Model 6,works fine,neutral
+iPhone Model 7,heating issue,negative
+iPhone Model 7,display is शानदार,positive
+iPhone Model 7,very smooth experience,positive
+iPhone Model 7,battery life is great,positive
+iPhone Model 7,decent camera,neutral
+iPhone Model 7,camera is poor,negative
+iPhone Model 7,heating issue,negative
+iPhone Model 7,camera is poor,negative
+iPhone Model 7,heating issue,negative
+iPhone Model 7,not bad not great,neutral
+iPhone Model 8,not bad not great,neutral
+iPhone Model 8,performance is fast,positive
+iPhone Model 8,very smooth experience,positive
+iPhone Model 8,charging is super fast,positive
+iPhone Model 8,decent camera,neutral
+iPhone Model 8,build quality is bad,negative
+iPhone Model 8,decent camera,neutral
+iPhone Model 8,camera is poor,negative
+iPhone Model 8,okay battery,neutral
+iPhone Model 8,not bad not great,neutral
+iPhone Model 9,heating issue,negative
+iPhone Model 9,decent camera,neutral
+iPhone Model 9,battery life is great,positive
+iPhone Model 9,battery life is great,positive
+iPhone Model 9,works fine,neutral
+iPhone Model 9,battery life is great,positive
+iPhone Model 9,slow charging,negative
+iPhone Model 9,camera is amazing,positive
+iPhone Model 9,camera is amazing,positive
+iPhone Model 9,works fine,neutral
+iPhone Model 10,not bad not great,neutral
+iPhone Model 10,battery drains fast,negative
+iPhone Model 10,camera is amazing,positive
+iPhone Model 10,works fine,neutral
+iPhone Model 10,works fine,neutral
+iPhone Model 10,not bad not great,neutral
+iPhone Model 10,okay battery,neutral
+iPhone Model 10,charging is super fast,positive
+iPhone Model 10,performance is fast,positive
+iPhone Model 10,decent camera,neutral
+iPhone Model 11,charging is super fast,positive
+iPhone Model 11,not bad not great,neutral
+iPhone Model 11,not bad not great,neutral
+iPhone Model 11,average performance,neutral
+iPhone Model 11,battery life is great,positive
+iPhone Model 11,battery life is great,positive
+iPhone Model 11,normal usage is okay,neutral
+iPhone Model 11,battery life is great,positive
+iPhone Model 11,camera is poor,negative
+iPhone Model 11,camera is amazing,positive
+iPhone Model 12,battery drains fast,negative
+iPhone Model 12,not bad not great,neutral
+iPhone Model 12,lags sometimes,negative
+iPhone Model 12,works fine,neutral
+iPhone Model 12,charging is super fast,positive
+iPhone Model 12,not bad not great,neutral
+iPhone Model 12,very smooth experience,positive
+iPhone Model 12,decent camera,neutral
+iPhone Model 12,normal usage is okay,neutral
+iPhone Model 12,camera is poor,negative
+Samsung Model 1,very smooth experience,positive
+Samsung Model 1,display is शानदार,positive
+Samsung Model 1,display is शानदार,positive
+Samsung Model 1,battery life is great,positive
+Samsung Model 1,decent camera,neutral
+Samsung Model 1,normal usage is okay,neutral
+Samsung Model 1,heating issue,negative
+Samsung Model 1,decent camera,neutral
+Samsung Model 1,lags sometimes,negative
+Samsung Model 1,battery life is great,positive
+Samsung Model 2,charging is super fast,positive
+Samsung Model 2,charging is super fast,positive
+Samsung Model 2,build quality is bad,negative
+Samsung Model 2,battery drains fast,negative
+Samsung Model 2,slow charging,negative
+Samsung Model 2,very smooth experience,positive
+Samsung Model 2,charging is super fast,positive
+Samsung Model 2,normal usage is okay,neutral
+Samsung Model 2,heating issue,negative
+Samsung Model 2,works fine,neutral
+Samsung Model 3,display is शानदार,positive
+Samsung Model 3,not bad not great,neutral
+Samsung Model 3,camera is poor,negative
+Samsung Model 3,slow charging,negative
+Samsung Model 3,not bad not great,neutral
+Samsung Model 3,very smooth experience,positive
+Samsung Model 3,battery drains fast,negative
+Samsung Model 3,heating issue,negative
+Samsung Model 3,battery drains fast,negative
+Samsung Model 3,camera is poor,negative
+Samsung Model 4,okay battery,neutral
+Samsung Model 4,camera is amazing,positive
+Samsung Model 4,works fine,neutral
+Samsung Model 4,average performance,neutral
+Samsung Model 4,build quality is bad,negative
+Samsung Model 4,normal usage is okay,neutral
+Samsung Model 4,average performance,neutral
+Samsung Model 4,works fine,neutral
+Samsung Model 4,lags sometimes,negative
+Samsung Model 4,build quality is bad,negative
+Samsung Model 5,very smooth experience,positive
+Samsung Model 5,heating issue,negative
+Samsung Model 5,camera is amazing,positive
+Samsung Model 5,works fine,neutral
+Samsung Model 5,display is शानदार,positive
+Samsung Model 5,performance is fast,positive
+Samsung Model 5,display is शानदार,positive
+Samsung Model 5,build quality is bad,negative
+Samsung Model 5,lags sometimes,negative
+Samsung Model 5,very smooth experience,positive
+Samsung Model 6,charging is super fast,positive
+Samsung Model 6,very smooth experience,positive
+Samsung Model 6,normal usage is okay,neutral
+Samsung Model 6,performance is fast,positive
+Samsung Model 6,not bad not great,neutral
+Samsung Model 6,decent camera,neutral
+Samsung Model 6,camera is poor,negative
+Samsung Model 6,normal usage is okay,neutral
+Samsung Model 6,average performance,neutral
+Samsung Model 6,lags sometimes,negative
+Samsung Model 7,heating issue,negative
+Samsung Model 7,normal usage is okay,neutral
+Samsung Model 7,average performance,neutral
+Samsung Model 7,camera is amazing,positive
+Samsung Model 7,decent camera,neutral
+Samsung Model 7,heating issue,negative
+Samsung Model 7,charging is super fast,positive
+Samsung Model 7,battery drains fast,negative
+Samsung Model 7,build quality is bad,negative
+Samsung Model 7,normal usage is okay,neutral
+Samsung Model 8,not bad not great,neutral
+Samsung Model 8,performance is fast,positive
+Samsung Model 8,not bad not great,neutral
+Samsung Model 8,slow charging,negative
+Samsung Model 8,battery life is great,positive
+Samsung Model 8,battery life is great,positive
+Samsung Model 8,very smooth experience,positive
+Samsung Model 8,normal usage is okay,neutral
+Samsung Model 8,normal usage is okay,neutral
+Samsung Model 8,display is शानदार,positive
+Samsung Model 9,normal usage is okay,neutral
+Samsung Model 9,okay battery,neutral
+Samsung Model 9,camera is poor,negative
+Samsung Model 9,works fine,neutral
+Samsung Model 9,charging is super fast,positive
+Samsung Model 9,slow charging,negative
+Samsung Model 9,very smooth experience,positive
+Samsung Model 9,battery life is great,positive
+Samsung Model 9,display is शानदार,positive
+Samsung Model 9,lags sometimes,negative
+Samsung Model 10,not bad not great,neutral
+Samsung Model 10,camera is poor,negative
+Samsung Model 10,camera is poor,negative
+Samsung Model 10,heating issue,negative
+Samsung Model 10,battery drains fast,negative
+Samsung Model 10,battery life is great,positive
+Samsung Model 10,very smooth experience,positive
+Samsung Model 10,camera is poor,negative
+Samsung Model 10,display is शानदार,positive
+Samsung Model 10,not bad not great,neutral
+Samsung Model 11,normal usage is okay,neutral
+Samsung Model 11,battery life is great,positive
+Samsung Model 11,normal usage is okay,neutral
+Samsung Model 11,average performance,neutral
+Samsung Model 11,works fine,neutral
+Samsung Model 11,performance is fast,positive
+Samsung Model 11,display is शानदार,positive
+Samsung Model 11,decent camera,neutral
+Samsung Model 11,decent camera,neutral
+Samsung Model 11,battery life is great,positive
+Samsung Model 12,battery life is great,positive
+Samsung Model 12,not bad not great,neutral
+Samsung Model 12,build quality is bad,negative
+Samsung Model 12,build quality is bad,negative
+Samsung Model 12,okay battery,neutral
+Samsung Model 12,display is शानदार,positive
+Samsung Model 12,okay battery,neutral
+Samsung Model 12,battery life is great,positive
+Samsung Model 12,camera is amazing,positive
+Samsung Model 12,battery life is great,positive
+OnePlus Model 1,camera is poor,negative
+OnePlus Model 1,decent camera,neutral
+OnePlus Model 1,display is शानदार,positive
+OnePlus Model 1,decent camera,neutral
+OnePlus Model 1,build quality is bad,negative
+OnePlus Model 1,charging is super fast,positive
+OnePlus Model 1,very smooth experience,positive
+OnePlus Model 1,decent camera,neutral
+OnePlus Model 1,works fine,neutral
+OnePlus Model 1,okay battery,neutral
+OnePlus Model 2,charging is super fast,positive
+OnePlus Model 2,camera is amazing,positive
+OnePlus Model 2,camera is amazing,positive
+OnePlus Model 2,normal usage is okay,neutral
+OnePlus Model 2,not bad not great,neutral
+OnePlus Model 2,build quality is bad,negative
+OnePlus Model 2,decent camera,neutral
+OnePlus Model 2,battery life is great,positive
+OnePlus Model 2,very smooth experience,positive
+OnePlus Model 2,decent camera,neutral
+OnePlus Model 3,normal usage is okay,neutral
+OnePlus Model 3,lags sometimes,negative
+OnePlus Model 3,very smooth experience,positive
+OnePlus Model 3,very smooth experience,positive
+OnePlus Model 3,camera is poor,negative
+OnePlus Model 3,decent camera,neutral
+OnePlus Model 3,okay battery,neutral
+OnePlus Model 3,lags sometimes,negative
+OnePlus Model 3,average performance,neutral
+OnePlus Model 3,battery drains fast,negative
+OnePlus Model 4,build quality is bad,negative
+OnePlus Model 4,okay battery,neutral
+OnePlus Model 4,very smooth experience,positive
+OnePlus Model 4,normal usage is okay,neutral
+OnePlus Model 4,works fine,neutral
+OnePlus Model 4,heating issue,negative
+OnePlus Model 4,build quality is bad,negative
+OnePlus Model 4,charging is super fast,positive
+OnePlus Model 4,average performance,neutral
+OnePlus Model 4,camera is poor,negative
+OnePlus Model 5,camera is amazing,positive
+OnePlus Model 5,average performance,neutral
+OnePlus Model 5,works fine,neutral
+OnePlus Model 5,charging is super fast,positive
+OnePlus Model 5,build quality is bad,negative
+OnePlus Model 5,heating issue,negative
+OnePlus Model 5,okay battery,neutral
+OnePlus Model 5,camera is poor,negative
+OnePlus Model 5,battery life is great,positive
+OnePlus Model 5,charging is super fast,positive
+OnePlus Model 6,battery drains fast,negative
+OnePlus Model 6,camera is poor,negative
+OnePlus Model 6,performance is fast,positive
+OnePlus Model 6,camera is poor,negative
+OnePlus Model 6,display is शानदार,positive
+OnePlus Model 6,charging is super fast,positive
+OnePlus Model 6,heating issue,negative
+OnePlus Model 6,average performance,neutral
+OnePlus Model 6,battery life is great,positive
+OnePlus Model 6,battery life is great,positive
+OnePlus Model 7,camera is poor,negative
+OnePlus Model 7,build quality is bad,negative
+OnePlus Model 7,normal usage is okay,neutral
+OnePlus Model 7,performance is fast,positive
+OnePlus Model 7,okay battery,neutral
+OnePlus Model 7,not bad not great,neutral
+OnePlus Model 7,build quality is bad,negative
+OnePlus Model 7,battery life is great,positive
+OnePlus Model 7,not bad not great,neutral
+OnePlus Model 7,charging is super fast,positive
+OnePlus Model 8,works fine,neutral
+OnePlus Model 8,camera is poor,negative
+OnePlus Model 8,works fine,neutral
+OnePlus Model 8,average performance,neutral
+OnePlus Model 8,display is शानदार,positive
+OnePlus Model 8,not bad not great,neutral
+OnePlus Model 8,average performance,neutral
+OnePlus Model 8,average performance,neutral
+OnePlus Model 8,okay battery,neutral
+OnePlus Model 8,lags sometimes,negative
+OnePlus Model 9,very smooth experience,positive
+OnePlus Model 9,slow charging,negative
+OnePlus Model 9,very smooth experience,positive
+OnePlus Model 9,battery life is great,positive
+OnePlus Model 9,display is शानदार,positive
+OnePlus Model 9,average performance,neutral
+OnePlus Model 9,camera is poor,negative
+OnePlus Model 9,camera is amazing,positive
+OnePlus Model 9,battery life is great,positive
+OnePlus Model 9,charging is super fast,positive
+OnePlus Model 10,heating issue,negative
+OnePlus Model 10,performance is fast,positive
+OnePlus Model 10,charging is super fast,positive
+OnePlus Model 10,average performance,neutral
+OnePlus Model 10,slow charging,negative
+OnePlus Model 10,decent camera,neutral
+OnePlus Model 10,camera is amazing,positive
+OnePlus Model 10,not bad not great,neutral
+OnePlus Model 10,heating issue,negative
+OnePlus Model 10,very smooth experience,positive
+OnePlus Model 11,camera is amazing,positive
+OnePlus Model 11,normal usage is okay,neutral
+OnePlus Model 11,camera is poor,negative
+OnePlus Model 11,decent camera,neutral
+OnePlus Model 11,very smooth experience,positive
+OnePlus Model 11,slow charging,negative
+OnePlus Model 11,okay battery,neutral
+OnePlus Model 11,performance is fast,positive
+OnePlus Model 11,very smooth experience,positive
+OnePlus Model 11,lags sometimes,negative
+OnePlus Model 12,battery drains fast,negative
+OnePlus Model 12,performance is fast,positive
+OnePlus Model 12,charging is super fast,positive
+OnePlus Model 12,not bad not great,neutral
+OnePlus Model 12,lags sometimes,negative
+OnePlus Model 12,lags sometimes,negative
+OnePlus Model 12,heating issue,negative
+OnePlus Model 12,lags sometimes,negative
+OnePlus Model 12,heating issue,negative
+OnePlus Model 12,camera is poor,negative
+Redmi Model 1,display is शानदार,positive
+Redmi Model 1,normal usage is okay,neutral
+Redmi Model 1,build quality is bad,negative
+Redmi Model 1,camera is poor,negative
+Redmi Model 1,normal usage is okay,neutral
+Redmi Model 1,very smooth experience,positive
+Redmi Model 1,camera is poor,negative
+Redmi Model 1,charging is super fast,positive
+Redmi Model 1,battery life is great,positive
+Redmi Model 1,performance is fast,positive
+Redmi Model 2,camera is poor,negative
+Redmi Model 2,camera is poor,negative
+Redmi Model 2,very smooth experience,positive
+Redmi Model 2,battery life is great,positive
+Redmi Model 2,heating issue,negative
+Redmi Model 2,camera is amazing,positive
+Redmi Model 2,performance is fast,positive
+Redmi Model 2,build quality is bad,negative
+Redmi Model 2,lags sometimes,negative
+Redmi Model 2,charging is super fast,positive
+Redmi Model 3,charging is super fast,positive
+Redmi Model 3,performance is fast,positive
+Redmi Model 3,camera is amazing,positive
+Redmi Model 3,battery drains fast,negative
+Redmi Model 3,works fine,neutral
+Redmi Model 3,build quality is bad,negative
+Redmi Model 3,lags sometimes,negative
+Redmi Model 3,battery drains fast,negative
+Redmi Model 3,camera is amazing,positive
+Redmi Model 3,very smooth experience,positive
+Redmi Model 4,works fine,neutral
+Redmi Model 4,okay battery,neutral
+Redmi Model 4,slow charging,negative
+Redmi Model 4,battery drains fast,negative
+Redmi Model 4,normal usage is okay,neutral
+Redmi Model 4,lags sometimes,negative
+Redmi Model 4,battery drains fast,negative
+Redmi Model 4,average performance,neutral
+Redmi Model 4,works fine,neutral
+Redmi Model 4,lags sometimes,negative
+Redmi Model 5,very smooth experience,positive
+Redmi Model 5,heating issue,negative
+Redmi Model 5,okay battery,neutral
+Redmi Model 5,very smooth experience,positive
+Redmi Model 5,battery drains fast,negative
+Redmi Model 5,slow charging,negative
+Redmi Model 5,heating issue,negative
+Redmi Model 5,battery life is great,positive
+Redmi Model 5,display is शानदार,positive
+Redmi Model 5,not bad not great,neutral
+Redmi Model 6,performance is fast,positive
+Redmi Model 6,normal usage is okay,neutral
+Redmi Model 6,very smooth experience,positive
+Redmi Model 6,performance is fast,positive
+Redmi Model 6,lags sometimes,negative
+Redmi Model 6,battery life is great,positive
+Redmi Model 6,normal usage is okay,neutral
+Redmi Model 6,display is शानदार,positive
+Redmi Model 6,normal usage is okay,neutral
+Redmi Model 6,build quality is bad,negative
+Redmi Model 7,display is शानदार,positive
+Redmi Model 7,okay battery,neutral
+Redmi Model 7,lags sometimes,negative
+Redmi Model 7,charging is super fast,positive
+Redmi Model 7,lags sometimes,negative
+Redmi Model 7,camera is amazing,positive
+Redmi Model 7,charging is super fast,positive
+Redmi Model 7,battery life is great,positive
+Redmi Model 7,works fine,neutral
+Redmi Model 7,slow charging,negative
+Redmi Model 8,performance is fast,positive
+Redmi Model 8,average performance,neutral
+Redmi Model 8,display is शानदार,positive
+Redmi Model 8,average performance,neutral
+Redmi Model 8,not bad not great,neutral
+Redmi Model 8,battery drains fast,negative
+Redmi Model 8,decent camera,neutral
+Redmi Model 8,build quality is bad,negative
+Redmi Model 8,camera is amazing,positive
+Redmi Model 8,normal usage is okay,neutral
+Redmi Model 9,build quality is bad,negative
+Redmi Model 9,slow charging,negative
+Redmi Model 9,very smooth experience,positive
+Redmi Model 9,slow charging,negative
+Redmi Model 9,heating issue,negative
+Redmi Model 9,slow charging,negative
+Redmi Model 9,camera is poor,negative
+Redmi Model 9,normal usage is okay,neutral
+Redmi Model 9,not bad not great,neutral
+Redmi Model 9,battery life is great,positive
+Redmi Model 10,normal usage is okay,neutral
+Redmi Model 10,normal usage is okay,neutral
+Redmi Model 10,performance is fast,positive
+Redmi Model 10,not bad not great,neutral
+Redmi Model 10,works fine,neutral
+Redmi Model 10,battery life is great,positive
+Redmi Model 10,heating issue,negative
+Redmi Model 10,camera is poor,negative
+Redmi Model 10,okay battery,neutral
+Redmi Model 10,battery life is great,positive
+Redmi Model 11,battery drains fast,negative
+Redmi Model 11,performance is fast,positive
+Redmi Model 11,charging is super fast,positive
+Redmi Model 11,works fine,neutral
+Redmi Model 11,camera is amazing,positive
+Redmi Model 11,charging is super fast,positive
+Redmi Model 11,not bad not great,neutral
+Redmi Model 11,display is शानदार,positive
+Redmi Model 11,performance is fast,positive
+Redmi Model 11,okay battery,neutral
+Redmi Model 12,camera is poor,negative
+Redmi Model 12,okay battery,neutral
+Redmi Model 12,camera is amazing,positive
+Redmi Model 12,normal usage is okay,neutral
+Redmi Model 12,slow charging,negative
+Redmi Model 12,display is शानदार,positive
+Redmi Model 12,heating issue,negative
+Redmi Model 12,heating issue,negative
+Redmi Model 12,works fine,neutral
+Redmi Model 12,average performance,neutral
+Realme Model 1,decent camera,neutral
+Realme Model 1,works fine,neutral
+Realme Model 1,slow charging,negative
+Realme Model 1,works fine,neutral
+Realme Model 1,performance is fast,positive
+Realme Model 1,camera is amazing,positive
+Realme Model 1,normal usage is okay,neutral
+Realme Model 1,charging is super fast,positive
+Realme Model 1,average performance,neutral
+Realme Model 1,performance is fast,positive
+Realme Model 2,works fine,neutral
+Realme Model 2,very smooth experience,positive
+Realme Model 2,slow charging,negative
+Realme Model 2,battery life is great,positive
+Realme Model 2,battery drains fast,negative
+Realme Model 2,not bad not great,neutral
+Realme Model 2,camera is poor,negative
+Realme Model 2,heating issue,negative
+Realme Model 2,camera is amazing,positive
+Realme Model 2,average performance,neutral
+Realme Model 3,charging is super fast,positive
+Realme Model 3,works fine,neutral
+Realme Model 3,average performance,neutral
+Realme Model 3,camera is amazing,positive
+Realme Model 3,normal usage is okay,neutral
+Realme Model 3,build quality is bad,negative
+Realme Model 3,average performance,neutral
+Realme Model 3,build quality is bad,negative
+Realme Model 3,charging is super fast,positive
+Realme Model 3,build quality is bad,negative
+Realme Model 4,not bad not great,neutral
+Realme Model 4,camera is amazing,positive
+Realme Model 4,display is शानदार,positive
+Realme Model 4,average performance,neutral
+Realme Model 4,works fine,neutral
+Realme Model 4,normal usage is okay,neutral
+Realme Model 4,lags sometimes,negative
+Realme Model 4,slow charging,negative
+Realme Model 4,average performance,neutral
+Realme Model 4,display is शानदार,positive
+Realme Model 5,battery life is great,positive
+Realme Model 5,okay battery,neutral
+Realme Model 5,build quality is bad,negative
+Realme Model 5,lags sometimes,negative
+Realme Model 5,battery life is great,positive
+Realme Model 5,very smooth experience,positive
+Realme Model 5,very smooth experience,positive
+Realme Model 5,display is शानदार,positive
+Realme Model 5,heating issue,negative
+Realme Model 5,display is शानदार,positive
+Realme Model 6,heating issue,negative
+Realme Model 6,lags sometimes,negative
+Realme Model 6,works fine,neutral
+Realme Model 6,battery drains fast,negative
+Realme Model 6,average performance,neutral
+Realme Model 6,heating issue,negative
+Realme Model 6,okay battery,neutral
+Realme Model 6,camera is poor,negative
+Realme Model 6,camera is poor,negative
+Realme Model 6,not bad not great,neutral
+Realme Model 7,not bad not great,neutral
+Realme Model 7,okay battery,neutral
+Realme Model 7,not bad not great,neutral
+Realme Model 7,build quality is bad,negative
+Realme Model 7,average performance,neutral
+Realme Model 7,not bad not great,neutral
+Realme Model 7,performance is fast,positive
+Realme Model 7,works fine,neutral
+Realme Model 7,decent camera,neutral
+Realme Model 7,battery drains fast,negative
+Realme Model 8,build quality is bad,negative
+Realme Model 8,works fine,neutral
+Realme Model 8,very smooth experience,positive
+Realme Model 8,display is शानदार,positive
+Realme Model 8,build quality is bad,negative
+Realme Model 8,lags sometimes,negative
+Realme Model 8,display is शानदार,positive
+Realme Model 8,performance is fast,positive
+Realme Model 8,camera is amazing,positive
+Realme Model 8,charging is super fast,positive
+Realme Model 9,build quality is bad,negative
+Realme Model 9,display is शानदार,positive
+Realme Model 9,display is शानदार,positive
+Realme Model 9,decent camera,neutral
+Realme Model 9,charging is super fast,positive
+Realme Model 9,average performance,neutral
+Realme Model 9,lags sometimes,negative
+Realme Model 9,heating issue,negative
+Realme Model 9,charging is super fast,positive
+Realme Model 9,display is शानदार,positive
+Realme Model 10,battery life is great,positive
+Realme Model 10,normal usage is okay,neutral
+Realme Model 10,display is शानदार,positive
+Realme Model 10,okay battery,neutral
+Realme Model 10,heating issue,negative
+Realme Model 10,very smooth experience,positive
+Realme Model 10,decent camera,neutral
+Realme Model 10,camera is poor,negative
+Realme Model 10,heating issue,negative
+Realme Model 10,lags sometimes,negative
+Realme Model 11,camera is amazing,positive
+Realme Model 11,not bad not great,neutral
+Realme Model 11,normal usage is okay,neutral
+Realme Model 11,normal usage is okay,neutral
+Realme Model 11,build quality is bad,negative
+Realme Model 11,performance is fast,positive
+Realme Model 11,display is शानदार,positive
+Realme Model 11,camera is amazing,positive
+Realme Model 11,charging is super fast,positive
+Realme Model 11,display is शानदार,positive
+Realme Model 12,decent camera,neutral
+Realme Model 12,performance is fast,positive
+Realme Model 12,not bad not great,neutral
+Realme Model 12,display is शानदार,positive
+Realme Model 12,works fine,neutral
+Realme Model 12,camera is poor,negative
+Realme Model 12,slow charging,negative
+Realme Model 12,very smooth experience,positive
+Realme Model 12,slow charging,negative
+Realme Model 12,build quality is bad,negative
+Vivo Model 1,battery life is great,positive
+Vivo Model 1,camera is poor,negative
+Vivo Model 1,okay battery,neutral
+Vivo Model 1,lags sometimes,negative
+Vivo Model 1,decent camera,neutral
+Vivo Model 1,okay battery,neutral
+Vivo Model 1,display is शानदार,positive
+Vivo Model 1,display is शानदार,positive
+Vivo Model 1,okay battery,neutral
+Vivo Model 1,camera is amazing,positive
+Vivo Model 2,very smooth experience,positive
+Vivo Model 2,okay battery,neutral
+Vivo Model 2,works fine,neutral
+Vivo Model 2,charging is super fast,positive
+Vivo Model 2,charging is super fast,positive
+Vivo Model 2,battery drains fast,negative
+Vivo Model 2,normal usage is okay,neutral
+Vivo Model 2,charging is super fast,positive
+Vivo Model 2,slow charging,negative
+Vivo Model 2,normal usage is okay,neutral
+Vivo Model 3,very smooth experience,positive
+Vivo Model 3,average performance,neutral
+Vivo Model 3,decent camera,neutral
+Vivo Model 3,lags sometimes,negative
+Vivo Model 3,display is शानदार,positive
+Vivo Model 3,battery life is great,positive
+Vivo Model 3,lags sometimes,negative
+Vivo Model 3,normal usage is okay,neutral
+Vivo Model 3,battery life is great,positive
+Vivo Model 3,camera is poor,negative
+Vivo Model 4,okay battery,neutral
+Vivo Model 4,camera is poor,negative
+Vivo Model 4,works fine,neutral
+Vivo Model 4,okay battery,neutral
+Vivo Model 4,heating issue,negative
+Vivo Model 4,camera is amazing,positive
+Vivo Model 4,battery drains fast,negative
+Vivo Model 4,not bad not great,neutral
+Vivo Model 4,decent camera,neutral
+Vivo Model 4,slow charging,negative
+Vivo Model 5,camera is amazing,positive
+Vivo Model 5,battery life is great,positive
+Vivo Model 5,okay battery,neutral
+Vivo Model 5,very smooth experience,positive
+Vivo Model 5,build quality is bad,negative
+Vivo Model 5,battery life is great,positive
+Vivo Model 5,decent camera,neutral
+Vivo Model 5,display is शानदार,positive
+Vivo Model 5,okay battery,neutral
+Vivo Model 5,works fine,neutral
+Vivo Model 6,charging is super fast,positive
+Vivo Model 6,lags sometimes,negative
+Vivo Model 6,slow charging,negative
+Vivo Model 6,average performance,neutral
+Vivo Model 6,works fine,neutral
+Vivo Model 6,decent camera,neutral
+Vivo Model 6,lags sometimes,negative
+Vivo Model 6,not bad not great,neutral
+Vivo Model 6,works fine,neutral
+Vivo Model 6,slow charging,negative
+Vivo Model 7,decent camera,neutral
+Vivo Model 7,normal usage is okay,neutral
+Vivo Model 7,display is शानदार,positive
+Vivo Model 7,lags sometimes,negative
+Vivo Model 7,camera is amazing,positive
+Vivo Model 7,decent camera,neutral
+Vivo Model 7,not bad not great,neutral
+Vivo Model 7,display is शानदार,positive
+Vivo Model 7,camera is poor,negative
+Vivo Model 7,camera is amazing,positive
+Vivo Model 8,decent camera,neutral
+Vivo Model 8,battery drains fast,negative
+Vivo Model 8,average performance,neutral
+Vivo Model 8,build quality is bad,negative
+Vivo Model 8,display is शानदार,positive
+Vivo Model 8,decent camera,neutral
+Vivo Model 8,very smooth experience,positive
+Vivo Model 8,slow charging,negative
+Vivo Model 8,camera is amazing,positive
+Vivo Model 8,average performance,neutral
+Vivo Model 9,battery drains fast,negative
+Vivo Model 9,build quality is bad,negative
+Vivo Model 9,build quality is bad,negative
+Vivo Model 9,camera is poor,negative
+Vivo Model 9,works fine,neutral
+Vivo Model 9,works fine,neutral
+Vivo Model 9,camera is amazing,positive
+Vivo Model 9,battery life is great,positive
+Vivo Model 9,okay battery,neutral
+Vivo Model 9,very smooth experience,positive
+Vivo Model 10,heating issue,negative
+Vivo Model 10,works fine,neutral
+Vivo Model 10,very smooth experience,positive
+Vivo Model 10,normal usage is okay,neutral
+Vivo Model 10,very smooth experience,positive
+Vivo Model 10,performance is fast,positive
+Vivo Model 10,camera is amazing,positive
+Vivo Model 10,not bad not great,neutral
+Vivo Model 10,charging is super fast,positive
+Vivo Model 10,okay battery,neutral
+Vivo Model 11,performance is fast,positive
+Vivo Model 11,camera is poor,negative
+Vivo Model 11,average performance,neutral
+Vivo Model 11,display is शानदार,positive
+Vivo Model 11,camera is poor,negative
+Vivo Model 11,normal usage is okay,neutral
+Vivo Model 11,normal usage is okay,neutral
+Vivo Model 11,slow charging,negative
+Vivo Model 11,charging is super fast,positive
+Vivo Model 11,average performance,neutral
+Vivo Model 12,average performance,neutral
+Vivo Model 12,camera is amazing,positive
+Vivo Model 12,charging is super fast,positive
+Vivo Model 12,camera is poor,negative
+Vivo Model 12,works fine,neutral
+Vivo Model 12,heating issue,negative
+Vivo Model 12,lags sometimes,negative
+Vivo Model 12,okay battery,neutral
+Vivo Model 12,battery drains fast,negative
+Vivo Model 12,not bad not great,neutral
+Oppo Model 1,camera is amazing,positive
+Oppo Model 1,works fine,neutral
+Oppo Model 1,display is शानदार,positive
+Oppo Model 1,very smooth experience,positive
+Oppo Model 1,average performance,neutral
+Oppo Model 1,display is शानदार,positive
+Oppo Model 1,camera is poor,negative
+Oppo Model 1,decent camera,neutral
+Oppo Model 1,not bad not great,neutral
+Oppo Model 1,slow charging,negative
+Oppo Model 2,not bad not great,neutral
+Oppo Model 2,battery drains fast,negative
+Oppo Model 2,camera is amazing,positive
+Oppo Model 2,lags sometimes,negative
+Oppo Model 2,battery drains fast,negative
+Oppo Model 2,performance is fast,positive
+Oppo Model 2,not bad not great,neutral
+Oppo Model 2,camera is amazing,positive
+Oppo Model 2,okay battery,neutral
+Oppo Model 2,works fine,neutral
+Oppo Model 3,charging is super fast,positive
+Oppo Model 3,display is शानदार,positive
+Oppo Model 3,performance is fast,positive
+Oppo Model 3,camera is amazing,positive
+Oppo Model 3,charging is super fast,positive
+Oppo Model 3,works fine,neutral
+Oppo Model 3,average performance,neutral
+Oppo Model 3,average performance,neutral
+Oppo Model 3,battery life is great,positive
+Oppo Model 3,decent camera,neutral
+Oppo Model 4,display is शानदार,positive
+Oppo Model 4,okay battery,neutral
+Oppo Model 4,slow charging,negative
+Oppo Model 4,okay battery,neutral
+Oppo Model 4,not bad not great,neutral
+Oppo Model 4,display is शानदार,positive
+Oppo Model 4,build quality is bad,negative
+Oppo Model 4,performance is fast,positive
+Oppo Model 4,slow charging,negative
+Oppo Model 4,heating issue,negative
+Oppo Model 5,okay battery,neutral
+Oppo Model 5,battery drains fast,negative
+Oppo Model 5,battery drains fast,negative
+Oppo Model 5,not bad not great,neutral
+Oppo Model 5,okay battery,neutral
+Oppo Model 5,charging is super fast,positive
+Oppo Model 5,okay battery,neutral
+Oppo Model 5,very smooth experience,positive
+Oppo Model 5,display is शानदार,positive
+Oppo Model 5,average performance,neutral
+Oppo Model 6,display is शानदार,positive
+Oppo Model 6,camera is amazing,positive
+Oppo Model 6,performance is fast,positive
+Oppo Model 6,display is शानदार,positive
+Oppo Model 6,not bad not great,neutral
+Oppo Model 6,decent camera,neutral
+Oppo Model 6,not bad not great,neutral
+Oppo Model 6,decent camera,neutral
+Oppo Model 6,slow charging,negative
+Oppo Model 6,build quality is bad,negative
+Oppo Model 7,lags sometimes,negative
+Oppo Model 7,camera is poor,negative
+Oppo Model 7,performance is fast,positive
+Oppo Model 7,camera is amazing,positive
+Oppo Model 7,lags sometimes,negative
+Oppo Model 7,average performance,neutral
+Oppo Model 7,very smooth experience,positive
+Oppo Model 7,charging is super fast,positive
+Oppo Model 7,normal usage is okay,neutral
+Oppo Model 7,heating issue,negative
+Oppo Model 8,camera is amazing,positive
+Oppo Model 8,okay battery,neutral
+Oppo Model 8,camera is poor,negative
+Oppo Model 8,build quality is bad,negative
+Oppo Model 8,lags sometimes,negative
+Oppo Model 8,not bad not great,neutral
+Oppo Model 8,works fine,neutral
+Oppo Model 8,display is शानदार,positive
+Oppo Model 8,camera is amazing,positive
+Oppo Model 8,build quality is bad,negative
+Oppo Model 9,decent camera,neutral
+Oppo Model 9,okay battery,neutral
+Oppo Model 9,okay battery,neutral
+Oppo Model 9,slow charging,negative
+Oppo Model 9,works fine,neutral
+Oppo Model 9,build quality is bad,negative
+Oppo Model 9,camera is poor,negative
+Oppo Model 9,works fine,neutral
+Oppo Model 9,performance is fast,positive
+Oppo Model 9,camera is amazing,positive
+Oppo Model 10,battery drains fast,negative
+Oppo Model 10,battery life is great,positive
+Oppo Model 10,charging is super fast,positive
+Oppo Model 10,performance is fast,positive
+Oppo Model 10,decent camera,neutral
+Oppo Model 10,lags sometimes,negative
+Oppo Model 10,camera is poor,negative
+Oppo Model 10,display is शानदार,positive
+Oppo Model 10,camera is amazing,positive
+Oppo Model 10,performance is fast,positive
+Oppo Model 11,heating issue,negative
+Oppo Model 11,lags sometimes,negative
+Oppo Model 11,lags sometimes,negative
+Oppo Model 11,normal usage is okay,neutral
+Oppo Model 11,display is शानदार,positive
+Oppo Model 11,okay battery,neutral
+Oppo Model 11,works fine,neutral
+Oppo Model 11,build quality is bad,negative
+Oppo Model 11,battery life is great,positive
+Oppo Model 11,battery drains fast,negative
+Oppo Model 12,slow charging,negative
+Oppo Model 12,display is शानदार,positive
+Oppo Model 12,decent camera,neutral
+Oppo Model 12,average performance,neutral
+Oppo Model 12,average performance,neutral
+Oppo Model 12,slow charging,negative
+Oppo Model 12,not bad not great,neutral
+Oppo Model 12,camera is amazing,positive
+Oppo Model 12,performance is fast,positive
+Oppo Model 12,heating issue,negative
+Pixel Model 1,slow charging,negative
+Pixel Model 1,battery life is great,positive
+Pixel Model 1,decent camera,neutral
+Pixel Model 1,battery life is great,positive
+Pixel Model 1,heating issue,negative
+Pixel Model 1,decent camera,neutral
+Pixel Model 1,build quality is bad,negative
+Pixel Model 1,normal usage is okay,neutral
+Pixel Model 1,decent camera,neutral
+Pixel Model 1,charging is super fast,positive
+Pixel Model 2,heating issue,negative
+Pixel Model 2,average performance,neutral
+Pixel Model 2,slow charging,negative
+Pixel Model 2,performance is fast,positive
+Pixel Model 2,camera is amazing,positive
+Pixel Model 2,battery drains fast,negative
+Pixel Model 2,performance is fast,positive
+Pixel Model 2,display is शानदार,positive
+Pixel Model 2,charging is super fast,positive
+Pixel Model 2,battery life is great,positive
+Pixel Model 3,works fine,neutral
+Pixel Model 3,normal usage is okay,neutral
+Pixel Model 3,battery life is great,positive
+Pixel Model 3,camera is poor,negative
+Pixel Model 3,average performance,neutral
+Pixel Model 3,camera is amazing,positive
+Pixel Model 3,works fine,neutral
+Pixel Model 3,battery drains fast,negative
+Pixel Model 3,camera is amazing,positive
+Pixel Model 3,slow charging,negative
+Pixel Model 4,normal usage is okay,neutral
+Pixel Model 4,very smooth experience,positive
+Pixel Model 4,display is शानदार,positive
+Pixel Model 4,not bad not great,neutral
+Pixel Model 4,very smooth experience,positive
+Pixel Model 4,battery life is great,positive
+Pixel Model 4,average performance,neutral
+Pixel Model 4,normal usage is okay,neutral
+Pixel Model 4,build quality is bad,negative
+Pixel Model 4,display is शानदार,positive
+Pixel Model 5,battery life is great,positive
+Pixel Model 5,battery life is great,positive
+Pixel Model 5,heating issue,negative
+Pixel Model 5,not bad not great,neutral
+Pixel Model 5,performance is fast,positive
+Pixel Model 5,okay battery,neutral
+Pixel Model 5,very smooth experience,positive
+Pixel Model 5,heating issue,negative
+Pixel Model 5,battery drains fast,negative
+Pixel Model 5,camera is amazing,positive
+Pixel Model 6,display is शानदार,positive
+Pixel Model 6,camera is poor,negative
+Pixel Model 6,battery drains fast,negative
+Pixel Model 6,heating issue,negative
+Pixel Model 6,very smooth experience,positive
+Pixel Model 6,not bad not great,neutral
+Pixel Model 6,very smooth experience,positive
+Pixel Model 6,performance is fast,positive
+Pixel Model 6,okay battery,neutral
+Pixel Model 6,very smooth experience,positive
+Pixel Model 7,lags sometimes,negative
+Pixel Model 7,battery life is great,positive
+Pixel Model 7,build quality is bad,negative
+Pixel Model 7,normal usage is okay,neutral
+Pixel Model 7,performance is fast,positive
+Pixel Model 7,charging is super fast,positive
+Pixel Model 7,build quality is bad,negative
+Pixel Model 7,decent camera,neutral
+Pixel Model 7,works fine,neutral
+Pixel Model 7,decent camera,neutral
+Pixel Model 8,average performance,neutral
+Pixel Model 8,camera is poor,negative
+Pixel Model 8,okay battery,neutral
+Pixel Model 8,camera is poor,negative
+Pixel Model 8,display is शानदार,positive
+Pixel Model 8,battery drains fast,negative
+Pixel Model 8,not bad not great,neutral
+Pixel Model 8,performance is fast,positive
+Pixel Model 8,performance is fast,positive
+Pixel Model 8,battery life is great,positive
+Pixel Model 9,battery drains fast,negative
+Pixel Model 9,normal usage is okay,neutral
+Pixel Model 9,slow charging,negative
+Pixel Model 9,not bad not great,neutral
+Pixel Model 9,display is शानदार,positive
+Pixel Model 9,average performance,neutral
+Pixel Model 9,very smooth experience,positive
+Pixel Model 9,average performance,neutral
+Pixel Model 9,okay battery,neutral
+Pixel Model 9,average performance,neutral
+Pixel Model 10,very smooth experience,positive
+Pixel Model 10,camera is amazing,positive
+Pixel Model 10,okay battery,neutral
+Pixel Model 10,decent camera,neutral
+Pixel Model 10,display is शानदार,positive
+Pixel Model 10,battery drains fast,negative
+Pixel Model 10,decent camera,neutral
+Pixel Model 10,charging is super fast,positive
+Pixel Model 10,decent camera,neutral
+Pixel Model 10,decent camera,neutral
+Pixel Model 11,display is शानदार,positive
+Pixel Model 11,performance is fast,positive
+Pixel Model 11,decent camera,neutral
+Pixel Model 11,works fine,neutral
+Pixel Model 11,slow charging,negative
+Pixel Model 11,okay battery,neutral
+Pixel Model 11,camera is poor,negative
+Pixel Model 11,charging is super fast,positive
+Pixel Model 11,heating issue,negative
+Pixel Model 11,battery drains fast,negative
+Pixel Model 12,decent camera,neutral
+Pixel Model 12,performance is fast,positive
+Pixel Model 12,very smooth experience,positive
+Pixel Model 12,heating issue,negative
+Pixel Model 12,normal usage is okay,neutral
+Pixel Model 12,okay battery,neutral
+Pixel Model 12,camera is amazing,positive
+Pixel Model 12,camera is poor,negative
+Pixel Model 12,camera is poor,negative
+Pixel Model 12,not bad not great,neutral
+iPhone Model 2,its great,positive
+Samsung Model 10,i lke the camera,negative
+Samsung Model 10,i lke the camera,negative
+OnePlus Model 7,i love the battery,positive
+iPhone Model 1,"the camera is better than other phones in this budget
+",neutral
+Samsung Model 10,I liked the battery but the camera and performance is not upto the mark,neutral
+Samsung Model 10,I liked the battery but the camera and performance is not upto the mark,neutral
+OnePlus Model 12,its battery is good  but camera should improve,neutral
+iPhone Model 1,its good battery,positive
+Samsung Model 2,"good battery system
+",positive
